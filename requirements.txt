@@ -1,0 +1,7 @@
+numpy
+matplotlib
+astropy
+scipy
+NFW
+colossus
+ipywidgets
